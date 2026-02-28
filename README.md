@@ -106,7 +106,7 @@
 
 ```bash
 git clone <仓库地址>
-cd lab_聊天室/net-master
+cd ywtbuilder-chatroom-java-tcp
 ```
 
 ### 第二步：一键启动（推荐）
@@ -305,7 +305,7 @@ new Thread(() -> {
 ### 目录结构
 
 ```
-net-master/
+ywtbuilder-chatroom-java-tcp/
 ├── src/
 │   ├── server/
 │   │   ├── serverDemo.java   # 服务端主程序（GUI + 公告推送）
@@ -401,4 +401,5 @@ net-master/
 
 **维护者：** YWT  
 **联系方式：** GitHub Issues
+
 

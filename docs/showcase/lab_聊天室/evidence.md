@@ -18,7 +18,7 @@
 ## 一键运行命令
 
 ```powershell
-cd lab_聊天室/net-master
+cd ywtbuilder-chatroom-java-tcp
 pwsh -NoLogo -NoProfile -ExecutionPolicy Bypass -File .\scripts\start-chatroom.ps1
 ```
 
@@ -43,4 +43,5 @@ pwsh -NoLogo -NoProfile -ExecutionPolicy Bypass -File .\scripts\start-chatroom.p
 3. Swing 线程模型中的 EDT 为什么重要？
 4. 聊天协议如何扩展为私聊/群聊？
 5. 如果支持跨网络部署，要补哪些安全措施？
+
 
