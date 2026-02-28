@@ -1,0 +1,11 @@
+{
+  "generatedAtUtc": "2026-02-28T05:27:49.6722357Z",
+  "projectRoot": "D:\\Desktop\\展示项目\\lab_聊天室\\net-master",
+  "outDir": "D:\\Desktop\\展示项目\\lab_聊天室\\net-master\\out",
+  "ports": [
+    6666,
+    6667,
+    6668
+  ],
+  "processes": []
+}
