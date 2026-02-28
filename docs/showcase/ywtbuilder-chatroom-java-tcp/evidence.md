@@ -1,4 +1,4 @@
-# lab_聊天室 展示证据页
+# ywtbuilder-chatroom-java-tcp 展示证据页
 
 ## 一句话价值
 
@@ -6,7 +6,7 @@
 
 ## 1 分钟演示视频
 
-- 文件：`docs/showcase/lab_聊天室/demo.mp4`
+- 文件：`docs/showcase/ywtbuilder-chatroom-java-tcp/demo.mp4`
 - 建议镜头：服务端启动 -> 三客户端连接 -> 消息广播 -> 服务端公告
 
 ## 3 张关键截图
@@ -43,5 +43,6 @@ pwsh -NoLogo -NoProfile -ExecutionPolicy Bypass -File .\scripts\start-chatroom.p
 3. Swing 线程模型中的 EDT 为什么重要？
 4. 聊天协议如何扩展为私聊/群聊？
 5. 如果支持跨网络部署，要补哪些安全措施？
+
 
 

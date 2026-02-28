@@ -29,23 +29,23 @@
 ## ✨ 项目展示
 
 <p align="center">
-  <video src="docs/showcase/lab_聊天室/demo.mp4" width="720" controls>
-    你的浏览器不支持 video 标签，<a href="docs/showcase/lab_聊天室/demo.mp4">点此下载视频</a>。
+  <video src="docs/showcase/ywtbuilder-chatroom-java-tcp/demo.mp4" width="720" controls>
+    你的浏览器不支持 video 标签，<a href="docs/showcase/ywtbuilder-chatroom-java-tcp/demo.mp4">点此下载视频</a>。
   </video>
 </p>
 
 <p align="center">
-  <img src="docs/showcase/lab_聊天室/shot-01.png" alt="服务端监控界面" width="720"/>
+  <img src="docs/showcase/ywtbuilder-chatroom-java-tcp/shot-01.png" alt="服务端监控界面" width="720"/>
 </p>
 <p align="center"><i>↑ 服务端 GUI：实时显示在线连接状态，支持一键向全体推送公告</i></p>
 
 <p align="center">
-  <img src="docs/showcase/lab_聊天室/shot-02.png" alt="三客户端并发聊天" width="720"/>
+  <img src="docs/showcase/ywtbuilder-chatroom-java-tcp/shot-02.png" alt="三客户端并发聊天" width="720"/>
 </p>
 <p align="center"><i>↑ 三个客户端同时在线，任意一方发言均实时广播到全部窗口</i></p>
 
 <p align="center">
-  <img src="docs/showcase/lab_聊天室/shot-03.png" alt="公告广播结果" width="720"/>
+  <img src="docs/showcase/ywtbuilder-chatroom-java-tcp/shot-03.png" alt="公告广播结果" width="720"/>
 </p>
 <p align="center"><i>↑ 服务端公告下发后，所有在线客户端同步收到推送内容</i></p>
 
@@ -122,7 +122,7 @@ pwsh -NoLogo -NoProfile -ExecutionPolicy Bypass -File ./scripts/start-chatroom.p
 四个 Swing 窗口弹出（1 个服务端 + 3 个客户端），在任意客户端输入消息并点击发送，其余窗口实时刷新即为成功。
 
 <p align="center">
-  <img src="docs/showcase/lab_聊天室/shot-02.png" alt="启动成功截图" width="720"/>
+  <img src="docs/showcase/ywtbuilder-chatroom-java-tcp/shot-02.png" alt="启动成功截图" width="720"/>
 </p>
 <p align="center"><i>↑ 看到此界面（四窗口同时在线）表示启动成功</i></p>
 
@@ -322,7 +322,7 @@ ywtbuilder-chatroom-java-tcp/
 │   └── chatroom-pids.json    # 脚本记录的进程 PID
 └── docs/
     └── showcase/
-        └── lab_聊天室/        # 截图与视频资源
+        └── ywtbuilder-chatroom-java-tcp/        # 截图与视频资源
 ```
 
 ### 端口分配
@@ -401,5 +401,6 @@ ywtbuilder-chatroom-java-tcp/
 
 **维护者：** YWT  
 **联系方式：** GitHub Issues
+
 
 
